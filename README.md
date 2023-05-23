@@ -9,4 +9,4 @@ This is a repository to learn DSA
 <li>Priyanshu Jha</li>
 </ol>
 
-![Alt Text](https://unsplash.com/photos/LJ9KY8pIH3E)
+![Coding](https://unsplash.com/photos/LJ9KY8pIH3E)
